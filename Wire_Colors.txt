@@ -1,0 +1,5 @@
+PS/2 Mouse WiseCase
+verde - gnd
+branco - clock
+azul - vcc
+laranja - data
